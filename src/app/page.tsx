@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Dashboard = () => {
+const page = () => {
   const staffName = "Luqman"; // Example name
   const staffList = [
     { name: "Luqman", position: "Software Engineer" },
